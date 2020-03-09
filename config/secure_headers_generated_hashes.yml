@@ -1,0 +1,7 @@
+---
+scripts:
+  app/views/layouts/application.html.erb:
+  - "'sha256-SygzroJeg51yeF5MfRpbl9MFPlN+V/fPsFkMWJtBf7Y='"
+styles:
+  app/views/layouts/mailer.html.erb:
+  - "'sha256-r+DMEHh1kLfHskaQ873xDBRCVRaiUr+RcT0XRcJhb+U='"
